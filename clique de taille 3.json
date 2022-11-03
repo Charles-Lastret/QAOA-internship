@@ -1,0 +1,64 @@
+[
+    {
+        "clique de taille 3, k=2": {
+            "alpha": 0.880182012867647,
+            "angles": [
+                1.361082246243811,
+                2.0054414989794367
+            ],
+            "cost": -5.44,
+            "GW_cost": 7.0,
+            "cx": 16,
+            "k": 2,
+            "graph_path": "scs_8_[3]_range(2, 7)_1_None_False_2022-08-23 09:58:16.806648/clique de taille 3.gml"
+        },
+        "clique de taille 3, k=3": {
+            "alpha": 0.8169597164556962,
+            "angles": [
+                4.747960961614836,
+                2.364308398743224
+            ],
+            "cost": -3.95,
+            "GW_cost": 8.0,
+            "cx": 64,
+            "k": 3,
+            "graph_path": "scs_8_[3]_range(2, 7)_1_None_False_2022-08-23 09:58:16.806648/clique de taille 3.gml"
+        },
+        "clique de taille 3, k=4": {
+            "alpha": 0.8445274987405541,
+            "angles": [
+                3.972241512395717,
+                1.9671541308777747
+            ],
+            "cost": -3.97,
+            "GW_cost": 8.0,
+            "cx": 32,
+            "k": 4,
+            "graph_path": "scs_8_[3]_range(2, 7)_1_None_False_2022-08-23 09:58:16.806648/clique de taille 3.gml"
+        },
+        "clique de taille 3, k=5": {
+            "alpha": 0.9249270866141732,
+            "angles": [
+                2.875269800388827,
+                0.8220808051752955
+            ],
+            "cost": -3.81,
+            "GW_cost": 8.0,
+            "cx": 256,
+            "k": 5,
+            "graph_path": "scs_8_[3]_range(2, 7)_1_None_False_2022-08-23 09:58:16.806648/clique de taille 3.gml"
+        },
+        "clique de taille 3, k=6": {
+            "alpha": 0.8604704557640751,
+            "angles": [
+                2.842802660442463,
+                1.0257864081632908
+            ],
+            "cost": -3.73,
+            "GW_cost": 8.0,
+            "cx": 160,
+            "k": 6,
+            "graph_path": "scs_8_[3]_[6]_1_None_False_2022-08-23 13:18:45.399032/clique de taille 3.gml"
+        }
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "clique de taille 2, k=2": {
+            "alpha": 0.871395024489796,
+            "angles": [
+                4.798807858110715,
+                1.156614391435381
+            ],
+            "cost": -4.9,
+            "GW_cost": 7.0,
+            "cx": 14,
+            "k": 2,
+            "graph_path": "scs_8_[2, 3, 5, 7]_range(2, 7)_1_None_False_2022-08-22 16:00:04.437913/clique de taille 2.gml"
+        },
+        "clique de taille 2, k=3": {
+            "alpha": 0.8637209723756906,
+            "angles": [
+                2.4826224122890643,
+                2.238130963928763
+            ],
+            "cost": -3.62,
+            "GW_cost": 7.0,
+            "cx": 56,
+            "k": 3,
+            "graph_path": "scs_8_[2, 3, 5, 7]_range(2, 7)_1_None_False_2022-08-22 16:00:04.437913/clique de taille 2.gml"
+        },
+        "clique de taille 2, k=4": {
+            "alpha": 0.8574870000000001,
+            "angles": [
+                4.799926459457306,
+                1.3724710865001697
+            ],
+            "cost": -3.76,
+            "GW_cost": 7.0,
+            "cx": 28,
+            "k": 4,
+            "graph_path": "scs_8_[2, 3, 5, 7]_range(2, 7)_1_None_False_2022-08-22 16:00:04.437913/clique de taille 2.gml"
+        },
+        "clique de taille 2, k=5": {
+            "alpha": 0.8369892090395479,
+            "angles": [
+                3.854671524995162,
+                0.2894855403511548
+            ],
+            "cost": -3.54,
+            "GW_cost": 7.0,
+            "cx": 224,
+            "k": 5,
+            "graph_path": "scs_8_[2, 3, 5, 7]_range(5, 7)_1_None_False_2022-08-22 20:07:57.672478/clique de taille 2.gml"
+        },
+        "clique de taille 2, k=6": {
+            "alpha": 0.9546610884955751,
+            "angles": [
+                2.399963229728653,
+                2.246704676814803
+            ],
+            "cost": -3.39,
+            "GW_cost": 7.0,
+            "cx": 140,
+            "k": 6,
+            "graph_path": "scs_8_[2]_[6]_1_None_False_2022-08-22 22:13:38.293321/clique de taille 2.gml"
+        }
+    }
+]

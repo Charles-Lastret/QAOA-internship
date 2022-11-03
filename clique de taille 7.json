@@ -1,0 +1,64 @@
+[
+    {
+        "clique de taille 7, k=2": {
+            "alpha": 0.8634192931034483,
+            "angles": [
+                2.7514163794196884,
+                1.2480324056970726
+            ],
+            "cost": -12.18,
+            "GW_cost": 13.0,
+            "cx": 44,
+            "k": 2,
+            "graph_path": "scs_8_[7]_range(2, 7)_1_None_False_2022-08-24 18:35:51.759964/clique de taille 7.gml"
+        },
+        "clique de taille 7, k=3": {
+            "alpha": 0.8248186003824092,
+            "angles": [
+                2.399963229728653,
+                1.922417190195582
+            ],
+            "cost": -10.46,
+            "GW_cost": 17.0,
+            "cx": 176,
+            "k": 3,
+            "graph_path": "scs_8_[7]_range(2, 7)_1_None_False_2022-08-24 18:35:51.759964/clique de taille 7.gml"
+        },
+        "clique de taille 7, k=4": {
+            "alpha": 0.8184078378615249,
+            "angles": [
+                4.0887910878784,
+                1.6342862268043483
+            ],
+            "cost": -11.41,
+            "GW_cost": 19.0,
+            "cx": 88,
+            "k": 4,
+            "graph_path": "scs_8_[7]_range(2, 7)_1_None_False_2022-08-24 18:35:51.759964/clique de taille 7.gml"
+        },
+        "clique de taille 7, k=5": {
+            "alpha": 0.935381775259679,
+            "angles": [
+                0.5665570305409611,
+                1.5564398176331584
+            ],
+            "cost": -10.59,
+            "GW_cost": 20.0,
+            "cx": 704,
+            "k": 5,
+            "graph_path": "scs_8_[7]_range(2, 7)_1_None_False_2022-08-24 18:35:51.759964/clique de taille 7.gml"
+        },
+        "clique de taille 7, k=6": {
+            "alpha": 0.8875088687782805,
+            "angles": [
+                2.454626786997835,
+                1.5358732221671048
+            ],
+            "cost": -11.05,
+            "GW_cost": 21.0,
+            "cx": 440,
+            "k": 6,
+            "graph_path": "scs_8_[7]_[6]_1_None_False_2022-08-25 10:21:18.815290/clique de taille 7.gml"
+        }
+    }
+]
